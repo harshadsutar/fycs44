@@ -1,3 +1,2 @@
 # fycs44
-project
-github practice
+BHAVANS COLLEGE
